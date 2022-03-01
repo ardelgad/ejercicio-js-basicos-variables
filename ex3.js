@@ -24,5 +24,5 @@ console.log("Pregunta 1:", presentacion + nombre + " " + apellido);
 nombre = "Arantxa"
 apellido = "Delgado"
 
-
 console.log("Pregunta 2:", presentacion + nombre + " " + apellido);
+
